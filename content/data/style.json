@@ -7,5 +7,5 @@
     "neutral": "#282f36",
     "complementary": "#e9f6ff",
     "complementary-alt": "#fffde2",
-    "baseFontSize": "16px"
+    "base-font-size": "16px"
 }

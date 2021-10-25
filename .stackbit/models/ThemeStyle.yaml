@@ -7,13 +7,13 @@ extends:
 fieldGroups:
   - name: color-palettes
     label: Color Palettes
-  - name: font-size
+  - name: font-sizes
     label: Font Sizes
 fields:
   - type: number
     name: base-font-size
     label: Base Font Size
-    group: color-palettes
+    group: font-sizes
   - type: color
     name: body
     label: Body

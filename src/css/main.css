@@ -6,7 +6,7 @@
 @import 'theme.css';
 
 @layer base {
-    h1 {
+    h2 {
         @apply text-h1;
     }
 }

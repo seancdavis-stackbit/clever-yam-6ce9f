@@ -9,7 +9,7 @@ fieldGroups:
     label: Color Palettes
 fields:
   - type: number
-    name: base
+    name: base-font-size
     label: Top-Level Headings
     group: color-palettes
   - type: color

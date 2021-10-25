@@ -10,7 +10,7 @@ fieldGroups:
 fields:
   - type: color
     name: h1
-    label: Top-Level Heading
+    label: Top-Level Headings
     group: color-palettes
   - type: color
     name: body

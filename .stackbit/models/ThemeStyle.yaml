@@ -2,6 +2,7 @@ type: data
 name: ThemeStyle
 label: Theme Style
 file: style.json
+
 fieldGroups:
   - name: color-palettes
     label: Color Palettes 123

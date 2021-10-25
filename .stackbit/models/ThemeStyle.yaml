@@ -5,10 +5,10 @@ file: style.json
 extends:
   - ThemeStyle
 fieldGroups:
-  - name: color-palettes
-    label: Color Palettes
   - name: font-sizes
     label: Font Sizes
+  - name: color-palettes
+    label: Color Palettes
 fields:
   - type: number
     name: base-font-size

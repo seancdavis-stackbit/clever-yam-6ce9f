@@ -8,7 +8,7 @@ fieldGroups:
   - name: color-palettes
     label: Color Palettes
 fields:
-  - type: color
+  - type: number
     name: h1
     label: Top-Level Headings
     group: color-palettes

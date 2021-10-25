@@ -7,6 +7,8 @@ extends:
 fieldGroups:
   - name: color-palettes
     label: Color Palettes
+  - name: color-palettes
+    label: Color Palettes
 fields:
   - type: number
     name: base-font-size

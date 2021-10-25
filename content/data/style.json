@@ -6,5 +6,6 @@
     "secondary": "#dfe3e7",
     "neutral": "#282f36",
     "complementary": "#e9f6ff",
-    "complementary-alt": "#fffde2"
+    "complementary-alt": "#fffde2",
+    "baseFontSize": "\\"
 }

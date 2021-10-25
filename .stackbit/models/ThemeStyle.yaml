@@ -4,7 +4,7 @@ label: Theme Style
 file: style.json
 fieldGroups:
   - name: color-palettes
-    label: Color Palettes
+    label: Color Palettes 123
 fields:
   - type: color
     name: body

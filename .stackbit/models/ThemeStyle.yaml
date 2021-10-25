@@ -37,6 +37,6 @@ fields:
     label: Complementary Alt
     group: color-palettes
   - type: color
-    name: heading
+    name: page-heading
     label: Complementary Alt
     group: color-palettes

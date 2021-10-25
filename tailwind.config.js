@@ -13,7 +13,9 @@ module.exports = {
     darkMode: false,
     theme: {
         extend: {
-            font
+            fontSize: {
+                base: themeStyle.baseFontSize
+            },
             colors: {
                 body: themeStyle.body,
                 headlines: themeStyle.headlines,

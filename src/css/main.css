@@ -4,3 +4,9 @@
 
 @import '@stackbit/components/styles/default.css';
 @import 'theme.css';
+
+@layer base {
+    h1 {
+        @apply 
+    }
+}

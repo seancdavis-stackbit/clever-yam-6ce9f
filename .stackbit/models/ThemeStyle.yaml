@@ -5,10 +5,8 @@ file: style.json
 extends:
   - ThemeStyle
 fieldGroups:
-  # - name: color-palettes
-  #   label: Color Palettes 123
-  - name: another-group
-    label: Another Group
+  - name: color-palettes
+    label: Color Palettes
 fields:
   # - type: color
   #   name: body

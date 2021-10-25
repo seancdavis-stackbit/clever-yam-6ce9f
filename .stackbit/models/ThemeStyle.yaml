@@ -1,0 +1,38 @@
+
+   
+type: data
+name: ThemeStyle
+label: Theme Style
+file: style.json
+fieldGroups:
+  - name: color-palettes
+    label: Color Palettes
+fields:
+  - type: color
+    name: body
+    label: Body
+    group: color-palettes
+  - type: color
+    name: headlines
+    label: Headlines
+    group: color-palettes
+  - type: color
+    name: primary
+    label: Primary
+    group: color-palettes
+  - type: color
+    name: secondary
+    label: Secondary
+    group: color-palettes
+  - type: color
+    name: neutral
+    label: Neutral
+    group: color-palettes
+  - type: color
+    name: complementary
+    label: Complementary
+    group: color-palettes
+  - type: color
+    name: complementary-alt
+    label: Complementary Alt
+    group: color-palettes

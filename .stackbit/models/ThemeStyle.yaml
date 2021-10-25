@@ -10,7 +10,7 @@ fieldGroups:
   - name: color-palettes
     label: Color Palettes
 fields:
-  - type: number
+  - type: string
     name: base-font-size
     label: Base Font Size
     group: font-sizes

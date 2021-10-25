@@ -20,7 +20,8 @@ module.exports = {
                 secondary: themeStyle.secondary,
                 neutral: themeStyle.neutral,
                 complementary: themeStyle.complementary,
-                'complementary-alt': themeStyle.complementaryAlt
+                'complementary-alt': themeStyle.complementaryAlt,
+                h1: themeStyle.h1
             }
         }
     },

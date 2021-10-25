@@ -11,7 +11,7 @@ fieldGroups:
     label: Color Palettes
 fields:
   - type: string
-    name: base-font-size
+    name: baseFontSize
     label: Base Font Size
     group: font-sizes
   - type: color

@@ -9,6 +9,10 @@ fieldGroups:
     label: Color Palettes
 fields:
   - type: color
+    name: h1
+    label: Top-Level Heading
+    group: color-palettes
+  - type: color
     name: body
     label: Body
     group: color-palettes
@@ -35,8 +39,4 @@ fields:
   - type: color
     name: complementary-alt
     label: Complementary Alt
-    group: color-palettes
-  - type: color
-    name: h1
-    label: Top-Level Heading
     group: color-palettes

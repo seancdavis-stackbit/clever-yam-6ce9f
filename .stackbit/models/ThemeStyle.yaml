@@ -5,6 +5,8 @@ file: style.json
 fieldGroups:
   - name: color-palettes
     label: Color Palettes 123
+  - name: another-group
+    label: Another Group
 fields:
   - type: color
     name: body

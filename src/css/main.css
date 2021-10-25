@@ -4,9 +4,3 @@
 
 @import '@stackbit/components/styles/default.css';
 @import 'theme.css';
-
-@layer components {
-    h2 {
-        @apply text-h1;
-    }
-}

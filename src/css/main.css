@@ -5,7 +5,7 @@
 @import '@stackbit/components/styles/default.css';
 @import 'theme.css';
 
-@layer base {
+@layer components {
     h1 {
         @apply text-h1;
     }

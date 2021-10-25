@@ -35,4 +35,4 @@ fields:
   - type: color
     name: complementary-alt
     label: Complementary Alt
-    group: color-palettes
+    group: another-group

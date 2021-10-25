@@ -10,7 +10,7 @@ fieldGroups:
 fields:
   - type: number
     name: base-font-size
-    label: Top-Level Headings
+    label: Base Font Size
     group: color-palettes
   - type: color
     name: body

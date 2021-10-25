@@ -38,5 +38,5 @@ fields:
     group: color-palettes
   - type: color
     name: h1
-    label: Complementary Alt
+    label: Top-Level Heading
     group: color-palettes

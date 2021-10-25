@@ -7,6 +7,6 @@
 
 @layer base {
     h1 {
-        @apply text-
+        @apply text-h1;
     }
 }
